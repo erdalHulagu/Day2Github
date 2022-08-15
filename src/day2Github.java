@@ -15,6 +15,7 @@ public class day2Github {
      sadece git push kullanirim.
      Not: git log --oneline --> Commitlerdeki versiyonlardaki durumu gosterir
      Not: GitHub ogrendim.
+     6- git pull --> Remote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
      */
 
 }
